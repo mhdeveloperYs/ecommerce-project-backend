@@ -3,7 +3,7 @@
 <br>
 
 <p>
-  Complet Ecommerce Website ( Backend ) uses <a href="https://electron.atom.io/">MongoDB</a>, <a href="https://facebook.github.io/react/">NodeJs</a>, <a href="https://github.com/reactjs/redux">ExpressJS</a>, <a href="https://github.com/reactjs/react-router">Sequelize</a>, <a href="https://webpack.github.io/docs/">JWT Auth</a> and <a href="https://github.com/gaearon/react-hot-loader">BrainTree Payment Getway</a>.
+ ⚡️ Complet Ecommerce Website ( Backend ) uses <a href="https://electron.atom.io/">MongoDB</a>, <a href="https://facebook.github.io/react/">NodeJs</a>, <a href="https://github.com/reactjs/redux">ExpressJS</a>, <a href="https://github.com/reactjs/react-router">Sequelize</a>, <a href="https://webpack.github.io/docs/">JWT Auth</a> and <a href="https://github.com/gaearon/react-hot-loader">BrainTree Payment Getway</a>.
 </p>
 
 <br>
